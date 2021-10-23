@@ -3,6 +3,8 @@ Comandos simples relativos ao androidhelper disponível no IDE QPython 3L.
 
 #### Este texto foi retirado e adaptado de < https://gist.github.com/git-jr/80ad698fe55d1ff4be4a6c5a376a32f8 >. O referido autor está disponível em < https://gist.github.com/git-jr >.
 
+#### Para saber mais sobre o androidhelper, vide sua documentação (disponível em < https://kylelk.github.io/html-examples/androidhelper.html > para visualização).
+
 ##
 
 ```
