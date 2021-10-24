@@ -1,6 +1,9 @@
 # androidhelper
 Comandos simples relativos ao androidhelper disponível no IDE QPython 3L.
 
+Está incluso alguns exemplos de scripts que usam desses conceitos, de forma simples e intuitiva.
+O intuito do projeto é proporcionar, com maior facilidade, o uso dessa ferramenta a partir de Python e de fácil leitura.
+
 #### Este texto foi retirado e adaptado de < https://gist.github.com/git-jr/80ad698fe55d1ff4be4a6c5a376a32f8 >. O referido autor está disponível em < https://gist.github.com/git-jr >.
 
 #### Para saber mais sobre o androidhelper, vide sua documentação (disponível em < https://kylelk.github.io/html-examples/androidhelper.html > para visualização).
